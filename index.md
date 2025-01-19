@@ -1,5 +1,5 @@
 ---
-title: Eltantawy CNC
+title: Home
 ---
 
 Quality cut
