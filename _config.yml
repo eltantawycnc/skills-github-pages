@@ -1,3 +1,6 @@
-theme: minima
+theme: noir
 title: Eltantawy CNC
 author: Eltantawy
+
+social:
+  facebook: eltantawy.cnc.page
